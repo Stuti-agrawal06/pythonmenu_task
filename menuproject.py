@@ -14,7 +14,7 @@ import pyttsx3
 
 # Twilio credentials
 account_sid = 'AC97b2cc5a8f390d31c50d1198b3fbb629'
-auth_token = '8de679b7e65d71787fa6eb5d590a616e'
+# auth_token = '8de679b7e65d71787fa6eb5d590a616e'
 twilio_phone_number = '+19452959636'
 
 # Email credentials
